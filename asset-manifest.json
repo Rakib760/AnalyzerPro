@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/AnalyzerPro/static/css/main.f855e6bc.css",
+    "main.js": "/AnalyzerPro/static/js/main.476eb55b.js",
+    "static/js/453.6d245717.chunk.js": "/AnalyzerPro/static/js/453.6d245717.chunk.js",
+    "static/media/logo.svg": "/AnalyzerPro/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/AnalyzerPro/index.html",
+    "main.f855e6bc.css.map": "/AnalyzerPro/static/css/main.f855e6bc.css.map",
+    "main.476eb55b.js.map": "/AnalyzerPro/static/js/main.476eb55b.js.map",
+    "453.6d245717.chunk.js.map": "/AnalyzerPro/static/js/453.6d245717.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.476eb55b.js"
+  ]
+}
